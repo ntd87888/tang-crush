@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Em à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao em cứ đi nhầm vào tim anh
+    Rồi lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '❤️',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Đi chơi với anh đi.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: https://www.facebook.com/tung.duong.1812/
+    messLink: fb.com/tung.duong.1812/
 }
