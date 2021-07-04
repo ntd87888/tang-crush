@@ -1,4 +1,3 @@
-@@ -0,0 +1,19 @@
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Trái đất vốn lạ thường
